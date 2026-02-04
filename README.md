@@ -1,7 +1,9 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ISB333)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-36-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-13%20hrs%2044%20mins-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-37-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -42,23 +44,23 @@ Sunday                   131 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-TypeScript               7 hrs 6 mins        █████████████░░░░░░░░░░░░   52.01 % 
-Markdown                 2 hrs 31 mins       █████░░░░░░░░░░░░░░░░░░░░   18.50 % 
-Python                   2 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.12 % 
-Other                    53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
-Bash                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
+TypeScript               7 hrs 6 mins        █████████████░░░░░░░░░░░░   50.61 % 
+Markdown                 2 hrs 44 mins       █████░░░░░░░░░░░░░░░░░░░░   19.57 % 
+Python                   2 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
+Other                    53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
+Bash                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
 
 🔥 Editors: 
-VS Code                  13 hrs 39 mins      █████████████████████████   100.00 % 
+VS Code                  14 hrs 2 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ft_transcendence         9 hrs 14 mins       █████████████████░░░░░░░░   67.66 % 
-lifeOS                   4 hrs 24 mins       ████████░░░░░░░░░░░░░░░░░   32.29 % 
-fitbit-fetch-data        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+ft_transcendence         9 hrs 14 mins       ████████████████░░░░░░░░░   65.84 % 
+lifeOS                   4 hrs 47 mins       █████████░░░░░░░░░░░░░░░░   34.12 % 
+fitbit-fetch-data        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 💻 Operating System: 
-WSL                      9 hrs 14 mins       █████████████████░░░░░░░░   67.66 % 
-Windows                  4 hrs 25 mins       ████████░░░░░░░░░░░░░░░░░   32.34 % 
+WSL                      9 hrs 14 mins       ████████████████░░░░░░░░░   65.84 % 
+Windows                  4 hrs 47 mins       █████████░░░░░░░░░░░░░░░░   34.16 % 
 ```
 
 **I Mostly Code in C** 
@@ -78,7 +80,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ISB333/ISB333/main/assets/bar_graph.png)
 
 
- Last Updated on 03/02/2026 18:50:46 UTC
+ Last Updated on 04/02/2026 18:50:32 UTC
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=ISB333)
