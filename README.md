@@ -1,10 +1,13 @@
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-15%20hrs%2012%20mins-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-38-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 103.7 kB Used in GitHub's Storage 
  > 
-> 🏆 74 Contributions in the Year 2026
+> 🏆 81 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -15,21 +18,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                619 commits         ██████████░░░░░░░░░░░░░░░   38.23 % 
-🌆 Daytime                959 commits         ███████████████░░░░░░░░░░   59.23 % 
-🌃 Evening                22 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
-🌙 Night                  19 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
+🌞 Morning                659 commits         █████████░░░░░░░░░░░░░░░░   37.72 % 
+🌆 Daytime                1043 commits        ███████████████░░░░░░░░░░   59.70 % 
+🌃 Evening                24 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+🌙 Night                  21 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   327 commits         █████░░░░░░░░░░░░░░░░░░░░   20.20 % 
-Tuesday                  299 commits         █████░░░░░░░░░░░░░░░░░░░░   18.47 % 
-Wednesday                281 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.36 % 
-Thursday                 174 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
-Friday                   205 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
-Saturday                 202 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
-Sunday                   131 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
+Monday                   356 commits         █████░░░░░░░░░░░░░░░░░░░░   20.38 % 
+Tuesday                  324 commits         █████░░░░░░░░░░░░░░░░░░░░   18.55 % 
+Wednesday                297 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
+Thursday                 186 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
+Friday                   228 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.05 % 
+Saturday                 218 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
+Sunday                   138 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
 ```
 
 
@@ -39,24 +42,25 @@ Sunday                   131 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-TypeScript               7 hrs 35 mins       █████████████░░░░░░░░░░░░   50.13 % 
-Markdown                 2 hrs 52 mins       █████░░░░░░░░░░░░░░░░░░░░   19.03 % 
-Python                   2 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
-Other                    54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
-Bash                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
+TypeScript               7 hrs 35 mins       ████████████░░░░░░░░░░░░░   49.29 % 
+Markdown                 2 hrs 56 mins       █████░░░░░░░░░░░░░░░░░░░░   19.06 % 
+Python                   2 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
+Other                    1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
+Bash                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
 
 🔥 Editors: 
-VS Code                  15 hrs 8 mins       █████████████████████████   100.00 % 
+VS Code                  15 hrs 23 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ft_transcendence         9 hrs 14 mins       ███████████████░░░░░░░░░░   61.05 % 
-lifeOS                   4 hrs 50 mins       ████████░░░░░░░░░░░░░░░░░   32.04 % 
-GUI                      1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
+ft_transcendence         9 hrs 14 mins       ███████████████░░░░░░░░░░   60.02 % 
+lifeOS                   4 hrs 50 mins       ████████░░░░░░░░░░░░░░░░░   31.50 % 
+GUI                      1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
+learn-claude-code        2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 fitbit-fetch-data        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 💻 Operating System: 
-WSL                      9 hrs 14 mins       ███████████████░░░░░░░░░░   61.05 % 
-Windows                  5 hrs 53 mins       ██████████░░░░░░░░░░░░░░░   38.95 % 
+WSL                      9 hrs 17 mins       ███████████████░░░░░░░░░░   60.29 % 
+Windows                  6 hrs 6 mins        ██████████░░░░░░░░░░░░░░░   39.71 % 
 ```
 
 **I Mostly Code in C** 
@@ -76,7 +80,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ISB333/ISB333/main/assets/bar_graph.png)
 
 
- Last Updated on 05/02/2026 18:50:00 UTC
+ Last Updated on 06/02/2026 18:50:06 UTC
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=ISB333)
