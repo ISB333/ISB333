@@ -1,7 +1,4 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-14%20hrs%206%20mins-blue?style=flat)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-38-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -83,3 +80,4 @@ Dart                     1 repo              █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=ISB333)
+![Code Time](http://img.shields.io/badge/Code%20Time-14%20hrs%206%20mins-blue?style=flat)
