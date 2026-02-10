@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-19%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-24%20hrs%2010%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-52-blue?style=flat)
 
@@ -7,7 +7,7 @@
 
 > 📦 110.6 kB Used in GitHub's Storage 
  > 
-> 🏆 84 Contributions in the Year 2026
+> 🏆 85 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -18,21 +18,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                659 commits         █████████░░░░░░░░░░░░░░░░   37.61 % 
-🌆 Daytime                1048 commits        ███████████████░░░░░░░░░░   59.82 % 
-🌃 Evening                24 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
-🌙 Night                  21 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+🌞 Morning                517 commits         ██████████░░░░░░░░░░░░░░░   39.11 % 
+🌆 Daytime                768 commits         ███████████████░░░░░░░░░░   58.09 % 
+🌃 Evening                24 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+🌙 Night                  13 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   356 commits         █████░░░░░░░░░░░░░░░░░░░░   20.32 % 
-Tuesday                  324 commits         █████░░░░░░░░░░░░░░░░░░░░   18.49 % 
-Wednesday                297 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.95 % 
-Thursday                 186 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
-Friday                   228 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
-Saturday                 221 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
-Sunday                   140 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
+Monday                   270 commits         █████░░░░░░░░░░░░░░░░░░░░   20.42 % 
+Tuesday                  229 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.32 % 
+Wednesday                233 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.62 % 
+Thursday                 145 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
+Friday                   167 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.63 % 
+Saturday                 164 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
+Sunday                   114 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
 ```
 
 
@@ -42,26 +42,26 @@ Sunday                   140 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-TypeScript               3 hrs 26 mins       ████████░░░░░░░░░░░░░░░░░   31.93 % 
-Markdown                 2 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   19.65 % 
-Python                   1 hr 57 mins        █████░░░░░░░░░░░░░░░░░░░░   18.23 % 
-Other                    1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
-JSON                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
+Markdown                 1 hr 45 mins        ███████░░░░░░░░░░░░░░░░░░   28.33 % 
+YAML                     45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
+JSON                     42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
+Python                   38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
+TypeScript               37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 45 mins      █████████████████████████   100.00 % 
+VS Code                  6 hrs 13 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ft_transcendence         4 hrs 47 mins       ███████████░░░░░░░░░░░░░░   44.47 % 
-lifeOS                   3 hrs 28 mins       ████████░░░░░░░░░░░░░░░░░   32.35 % 
-GUI                      1 hr 15 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
-Startup Internship       49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
-AI-Enhanced-Trading-Journ12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
+lifeOS                   2 hrs 45 mins       ███████████░░░░░░░░░░░░░░   44.34 % 
+GUI                      1 hr 15 mins        █████░░░░░░░░░░░░░░░░░░░░   20.21 % 
+ft_transcendence         58 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
+Startup Internship       49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
+AI-Enhanced-Trading-Journ12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
 
 💻 Operating System: 
-Windows                  4 hrs 44 mins       ███████████░░░░░░░░░░░░░░   44.03 % 
-WSL                      3 hrs 51 mins       █████████░░░░░░░░░░░░░░░░   35.86 % 
-Linux                    2 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   20.11 % 
+Windows                  4 hrs               ████████████████░░░░░░░░░   64.55 % 
+Linux                    2 hrs 9 mins        █████████░░░░░░░░░░░░░░░░   34.78 % 
+WSL                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
 ```
 
 **I Mostly Code in C** 
@@ -81,7 +81,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ISB333/ISB333/main/assets/bar_graph.png)
 
 
- Last Updated on 09/02/2026 18:51:00 UTC
+ Last Updated on 10/02/2026 18:51:59 UTC
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=ISB333)
