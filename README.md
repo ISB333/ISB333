@@ -1,13 +1,13 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-30%20hrs%2012%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-33%20hrs%2015%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-52-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 110.6 kB Used in GitHub's Storage 
  > 
-> 🏆 98 Contributions in the Year 2026
+> 🏆 101 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -18,21 +18,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                504 commits         ██████████░░░░░░░░░░░░░░░   40.13 % 
-🌆 Daytime                702 commits         ██████████████░░░░░░░░░░░   55.89 % 
-🌃 Evening                39 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
-🌙 Night                  11 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+🌞 Morning                555 commits         ██████████░░░░░░░░░░░░░░░   39.73 % 
+🌆 Daytime                786 commits         ██████████████░░░░░░░░░░░   56.26 % 
+🌃 Evening                43 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
+🌙 Night                  13 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   253 commits         █████░░░░░░░░░░░░░░░░░░░░   20.14 % 
-Tuesday                  202 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.08 % 
-Wednesday                239 commits         █████░░░░░░░░░░░░░░░░░░░░   19.03 % 
-Thursday                 140 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
-Friday                   165 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.14 % 
-Saturday                 148 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
-Sunday                   109 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
+Monday                   282 commits         █████░░░░░░░░░░░░░░░░░░░░   20.19 % 
+Tuesday                  227 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
+Wednesday                260 commits         █████░░░░░░░░░░░░░░░░░░░░   18.61 % 
+Thursday                 154 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
+Friday                   183 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
+Saturday                 175 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
+Sunday                   116 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
 ```
 
 
@@ -42,27 +42,27 @@ Sunday                   109 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-TypeScript               4 hrs 49 mins       ███████░░░░░░░░░░░░░░░░░░   27.06 % 
-Markdown                 3 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.98 % 
-Other                    2 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
-Python                   1 hr 54 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
-Bash                     1 hr 50 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
+TypeScript               6 hrs 30 mins       ████████░░░░░░░░░░░░░░░░░   31.50 % 
+Markdown                 3 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.93 % 
+Other                    2 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
+Bash                     2 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
+Python                   1 hr 54 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
 
 🔥 Editors: 
-VS Code                  17 hrs 25 mins      ████████████████████████░   97.88 % 
-Trae                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
+VS Code                  20 hrs 16 mins      █████████████████████████   98.17 % 
+Trae                     22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
 
 🐱‍💻 Projects: 
-ft_transcendence         10 hrs 39 mins      ███████████████░░░░░░░░░░   59.87 % 
-lifeOS                   5 hrs 32 mins       ████████░░░░░░░░░░░░░░░░░   31.11 % 
-Startup Internship       49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
-fitbit-fetch-data        22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
-AI-Enhanced-Trading-Journ13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
+ft_transcendence         13 hrs 28 mins      ████████████████░░░░░░░░░   65.23 % 
+lifeOS                   5 hrs 34 mins       ███████░░░░░░░░░░░░░░░░░░   26.98 % 
+Startup Internship       49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+fitbit-fetch-data        22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
+AI-Enhanced-Trading-Journ13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
 
 💻 Operating System: 
-Windows                  6 hrs 13 mins       █████████░░░░░░░░░░░░░░░░   34.97 % 
-WSL                      6 hrs 3 mins        █████████░░░░░░░░░░░░░░░░   34.05 % 
-Linux                    5 hrs 31 mins       ████████░░░░░░░░░░░░░░░░░   30.98 % 
+Linux                    7 hrs 20 mins       █████████░░░░░░░░░░░░░░░░   35.58 % 
+WSL                      7 hrs 2 mins        █████████░░░░░░░░░░░░░░░░   34.11 % 
+Windows                  6 hrs 15 mins       ████████░░░░░░░░░░░░░░░░░   30.31 % 
 ```
 
 **I Mostly Code in C** 
@@ -82,7 +82,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ISB333/ISB333/main/assets/bar_graph.png)
 
 
- Last Updated on 13/02/2026 18:49:46 UTC
+ Last Updated on 14/02/2026 18:48:36 UTC
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=ISB333)
