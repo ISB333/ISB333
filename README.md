@@ -1,37 +1,37 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-36%20hrs%205%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-43%20hrs%2012%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 110.7 kB Used in GitHub's Storage 
+> 📦 111.5 kB Used in GitHub's Storage 
  > 
-> 🏆 101 Contributions in the Year 2026
+> 🏆 103 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 18 Public Repositories 
  > 
-> 🔑 9 Private Repositories 
+> 🔑 10 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                555 commits         ██████████░░░░░░░░░░░░░░░   39.73 % 
-🌆 Daytime                786 commits         ██████████████░░░░░░░░░░░   56.26 % 
+🌞 Morning                555 commits         ██████████░░░░░░░░░░░░░░░   39.70 % 
+🌆 Daytime                787 commits         ██████████████░░░░░░░░░░░   56.29 % 
 🌃 Evening                43 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
 🌙 Night                  13 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   282 commits         █████░░░░░░░░░░░░░░░░░░░░   20.19 % 
-Tuesday                  227 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
-Wednesday                260 commits         █████░░░░░░░░░░░░░░░░░░░░   18.61 % 
+Monday                   283 commits         █████░░░░░░░░░░░░░░░░░░░░   20.24 % 
+Tuesday                  227 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
+Wednesday                260 commits         █████░░░░░░░░░░░░░░░░░░░░   18.60 % 
 Thursday                 154 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
-Friday                   183 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
-Saturday                 175 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
+Friday                   183 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
+Saturday                 175 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.52 % 
 Sunday                   116 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
 ```
 
@@ -42,37 +42,37 @@ Sunday                   116 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-TypeScript               10 hrs 37 mins      ██████████░░░░░░░░░░░░░░░   39.93 % 
-Markdown                 5 hrs 47 mins       █████░░░░░░░░░░░░░░░░░░░░   21.77 % 
-Other                    2 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
-Python                   2 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
-Bash                     2 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
+TypeScript               10 hrs 50 mins      ███████████░░░░░░░░░░░░░░   43.47 % 
+Markdown                 5 hrs 16 mins       █████░░░░░░░░░░░░░░░░░░░░   21.16 % 
+Bash                     2 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
+Other                    1 hr 51 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
+Python                   1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
 
 🔥 Editors: 
-VS Code                  26 hrs 14 mins      █████████████████████████   98.58 % 
-Trae                     22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
+VS Code                  24 hrs 34 mins      █████████████████████████   98.49 % 
+Trae                     22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
 
 🐱‍💻 Projects: 
-ft_transcendence         18 hrs 8 mins       █████████████████░░░░░░░░   68.15 % 
-lifeOS                   5 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   20.93 % 
-neuralNetworksAgents     1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
-Startup Internship       49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
-fitbit-fetch-data        22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
+ft_transcendence         18 hrs 8 mins       ██████████████████░░░░░░░   72.68 % 
+lifeOS                   4 hrs 31 mins       █████░░░░░░░░░░░░░░░░░░░░   18.10 % 
+neuralNetworksAgents     1 hr 55 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
+fitbit-fetch-data        22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+ticktick-mcp             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 💻 Operating System: 
-Linux                    11 hrs 50 mins      ███████████░░░░░░░░░░░░░░   44.49 % 
-WSL                      8 hrs 30 mins       ████████░░░░░░░░░░░░░░░░░   31.99 % 
-Windows                  6 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   23.51 % 
+Linux                    10 hrs 47 mins      ███████████░░░░░░░░░░░░░░   43.25 % 
+WSL                      8 hrs 57 mins       █████████░░░░░░░░░░░░░░░░   35.90 % 
+Windows                  5 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   20.85 % 
 ```
 
 **I Mostly Code in C** 
 
 ```text
-C                        10 repos            ███████████░░░░░░░░░░░░░░   45.45 % 
-Python                   3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
-Shell                    3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
-Dart                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
-TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+C                        10 repos            ███████████░░░░░░░░░░░░░░   43.48 % 
+Python                   3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
+Shell                    3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+Dart                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
 ```
 
 
@@ -82,7 +82,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ISB333/ISB333/main/assets/bar_graph.png)
 
 
- Last Updated on 15/02/2026 18:48:14 UTC
+ Last Updated on 16/02/2026 18:49:15 UTC
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=ISB333)
