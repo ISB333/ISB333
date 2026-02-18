@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-43%20hrs%2042%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-47%20hrs%2059%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -42,27 +42,27 @@ Sunday                   116 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-TypeScript               11 hrs 56 mins      ███████████░░░░░░░░░░░░░░   42.67 % 
-Markdown                 5 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   19.95 % 
-Other                    2 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.13 % 
-Bash                     2 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
-YAML                     1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
+TypeScript               11 hrs 55 mins      ████████████░░░░░░░░░░░░░   47.30 % 
+Markdown                 5 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   20.44 % 
+Bash                     1 hr 54 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
+Other                    1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
+JSON                     1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
 
 🔥 Editors: 
-VS Code                  27 hrs 36 mins      █████████████████████████   98.65 % 
-Trae                     22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+VS Code                  24 hrs 54 mins      █████████████████████████   98.80 % 
+Trae                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
 
 🐱‍💻 Projects: 
-ft_transcendence         22 hrs 25 mins      ████████████████████░░░░░   80.15 % 
-lifeOS                   3 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
-neuralNetworksAgents     1 hr 55 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
-fitbit-fetch-data        22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
-ticktick-mcp             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+ft_transcendence         22 hrs 53 mins      ███████████████████████░░   90.80 % 
+neuralNetworksAgents     1 hr 55 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
+Bureau                   19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+test                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+lifeOS                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 💻 Operating System: 
-WSL                      13 hrs 14 mins      ████████████░░░░░░░░░░░░░   47.34 % 
-Linux                    10 hrs 47 mins      ██████████░░░░░░░░░░░░░░░   38.58 % 
-Windows                  3 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
+WSL                      15 hrs 36 mins      ███████████████░░░░░░░░░░   61.94 % 
+Linux                    8 hrs 56 mins       █████████░░░░░░░░░░░░░░░░   35.46 % 
+Windows                  39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
 ```
 
 **I Mostly Code in C** 
@@ -82,7 +82,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ISB333/ISB333/main/assets/bar_graph.png)
 
 
- Last Updated on 17/02/2026 18:50:39 UTC
+ Last Updated on 18/02/2026 18:50:27 UTC
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=ISB333)
