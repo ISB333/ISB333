@@ -5,7 +5,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 111.5 kB Used in GitHub's Storage 
+> 📦 111.6 kB Used in GitHub's Storage 
  > 
 > 🏆 115 Contributions in the Year 2026
  > 
@@ -18,21 +18,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                556 commits         ██████████░░░░░░░░░░░░░░░   39.27 % 
-🌆 Daytime                802 commits         ██████████████░░░░░░░░░░░   56.64 % 
-🌃 Evening                45 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
-🌙 Night                  13 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+🌞 Morning                559 commits         ██████████░░░░░░░░░░░░░░░   39.12 % 
+🌆 Daytime                812 commits         ██████████████░░░░░░░░░░░   56.82 % 
+🌃 Evening                45 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
+🌙 Night                  13 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   283 commits         █████░░░░░░░░░░░░░░░░░░░░   19.99 % 
-Tuesday                  241 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
-Wednesday                260 commits         █████░░░░░░░░░░░░░░░░░░░░   18.36 % 
-Thursday                 155 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
-Friday                   183 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
-Saturday                 178 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
-Sunday                   116 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
+Monday                   283 commits         █████░░░░░░░░░░░░░░░░░░░░   19.80 % 
+Tuesday                  248 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.35 % 
+Wednesday                260 commits         █████░░░░░░░░░░░░░░░░░░░░   18.19 % 
+Thursday                 155 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
+Friday                   184 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
+Saturday                 183 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
+Sunday                   116 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
 ```
 
 
@@ -42,26 +42,26 @@ Sunday                   116 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-TypeScript               9 hrs 49 mins       ████████████░░░░░░░░░░░░░   48.13 % 
-Markdown                 4 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   21.76 % 
-Other                    1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
-JSON                     1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
-YAML                     51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+TypeScript               8 hrs 9 mins        ████████████░░░░░░░░░░░░░   46.98 % 
+Markdown                 4 hrs 26 mins       ██████░░░░░░░░░░░░░░░░░░░   25.54 % 
+JSON                     1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
+YAML                     51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
+Other                    44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
 
 🔥 Editors: 
-VS Code                  20 hrs 24 mins      █████████████████████████   100.00 % 
+VS Code                  17 hrs 22 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ft_transcendence         18 hrs 5 mins       ██████████████████████░░░   88.64 % 
-neuralNetworksAgents     1 hr 55 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
-Bureau                   19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
-test                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
-lifeOS                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+ft_transcendence         15 hrs 2 mins       ██████████████████████░░░   86.65 % 
+neuralNetworksAgents     1 hr 55 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
+Bureau                   19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
+test                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+lifeOS                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 
 💻 Operating System: 
-WSL                      11 hrs 7 mins       ██████████████░░░░░░░░░░░   54.49 % 
-Linux                    8 hrs 56 mins       ███████████░░░░░░░░░░░░░░   43.78 % 
-Windows                  21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
+WSL                      9 hrs 32 mins       ██████████████░░░░░░░░░░░   54.97 % 
+Linux                    7 hrs 28 mins       ███████████░░░░░░░░░░░░░░   43.00 % 
+Windows                  21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
 ```
 
 **I Mostly Code in C** 
@@ -81,7 +81,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ISB333/ISB333/main/assets/bar_graph.png)
 
 
- Last Updated on 19/02/2026 18:49:51 UTC
+ Last Updated on 20/02/2026 18:49:30 UTC
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=ISB333)
