@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-56%20hrs%2014%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-61%20hrs%2059%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -7,7 +7,7 @@
 
 > 📦 111.6 kB Used in GitHub's Storage 
  > 
-> 🏆 125 Contributions in the Year 2026
+> 🏆 126 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -18,21 +18,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                570 commits         ██████████░░░░░░░░░░░░░░░   38.99 % 
-🌆 Daytime                830 commits         ██████████████░░░░░░░░░░░   56.77 % 
-🌃 Evening                49 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
-🌙 Night                  13 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+🌞 Morning                574 commits         ██████████░░░░░░░░░░░░░░░   38.99 % 
+🌆 Daytime                834 commits         ██████████████░░░░░░░░░░░   56.66 % 
+🌃 Evening                51 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
+🌙 Night                  13 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   293 commits         █████░░░░░░░░░░░░░░░░░░░░   20.04 % 
-Tuesday                  258 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
-Wednesday                260 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
-Thursday                 157 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
-Friday                   186 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
-Saturday                 189 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
-Sunday                   119 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
+Monday                   297 commits         █████░░░░░░░░░░░░░░░░░░░░   20.18 % 
+Tuesday                  260 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.66 % 
+Wednesday                260 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.66 % 
+Thursday                 158 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
+Friday                   187 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
+Saturday                 190 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
+Sunday                   120 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
 ```
 
 
@@ -42,27 +42,27 @@ Sunday                   119 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-TypeScript               10 hrs 46 mins      ███████████████░░░░░░░░░░   58.90 % 
-Markdown                 2 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
-JSON                     1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
-Other                    1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
-YAML                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+TypeScript               10 hrs 51 mins      █████████████████░░░░░░░░   66.10 % 
+Markdown                 1 hr 45 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
+Bash                     1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
+JSON                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
+Nginx configuration file 37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
 
 🔥 Editors: 
-VS Code                  18 hrs 16 mins      █████████████████████████   99.98 % 
+VS Code                  16 hrs 25 mins      █████████████████████████   99.98 % 
 Wakatime-Cli             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🐱‍💻 Projects: 
-ft_transcendence         17 hrs 47 mins      ████████████████████████░   97.29 % 
-Bureau                   19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
-transcendance_docker     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
-test                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+ft_transcendence         15 hrs 56 mins      ████████████████████████░   96.99 % 
+Bureau                   19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+transcendance_docker     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+test                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
 Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
-WSL                      13 hrs 54 mins      ███████████████████░░░░░░   76.06 % 
-Linux                    4 hrs 3 mins        ██████░░░░░░░░░░░░░░░░░░░   22.17 % 
-Windows                  19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
+WSL                      9 hrs 37 mins       ███████████████░░░░░░░░░░   58.55 % 
+Linux                    6 hrs 29 mins       ██████████░░░░░░░░░░░░░░░   39.49 % 
+Windows                  19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
 ```
 
 **I Mostly Code in C** 
@@ -82,7 +82,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ISB333/ISB333/main/assets/bar_graph.png)
 
 
- Last Updated on 23/02/2026 18:51:29 UTC
+ Last Updated on 24/02/2026 18:51:17 UTC
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=ISB333)
