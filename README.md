@@ -1,11 +1,11 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-79%20hrs%203%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-82%20hrs%204%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 111.6 kB Used in GitHub's Storage 
+> 📦 209.0 kB Used in GitHub's Storage 
  > 
 > 🏆 49 Contributions in the Year 2026
  > 
@@ -42,26 +42,26 @@ Sunday                   81 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-TypeScript               20 hrs 50 mins      █████████████████░░░░░░░░   66.44 % 
-Markdown                 5 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.68 % 
-Bash                     1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
-YAML                     54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
-Other                    47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
+TypeScript               18 hrs 36 mins      █████████████████░░░░░░░░   67.08 % 
+Markdown                 4 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
+Bash                     1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
+YAML                     55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
+Other                    36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
 
 🔥 Editors: 
-VS Code                  31 hrs 22 mins      █████████████████████████   99.99 % 
+VS Code                  27 hrs 44 mins      █████████████████████████   99.99 % 
 Wakatime-Cli             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🐱‍💻 Projects: 
-ft_transcendence         30 hrs 48 mins      █████████████████████████   98.21 % 
-test                     24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
-transcendance_docker     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
-yestdeqgfhk              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+ft_transcendence         26 hrs 45 mins      ████████████████████████░   96.48 % 
+test                     47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
+transcendance_docker     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+yestdeqgfhk              4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Linux                    21 hrs 40 mins      █████████████████░░░░░░░░   69.08 % 
-WSL                      9 hrs 42 mins       ████████░░░░░░░░░░░░░░░░░   30.92 % 
+Linux                    17 hrs 40 mins      ████████████████░░░░░░░░░   63.69 % 
+WSL                      10 hrs 4 mins       █████████░░░░░░░░░░░░░░░░   36.31 % 
 ```
 
 **I Mostly Code in C** 
@@ -81,7 +81,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ISB333/ISB333/main/assets/bar_graph.png)
 
 
- Last Updated on 27/02/2026 18:48:55 UTC
+ Last Updated on 28/02/2026 18:47:04 UTC
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=ISB333)
