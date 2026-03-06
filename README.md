@@ -42,26 +42,26 @@ Sunday                   81 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-TypeScript               1 hr 42 mins        █████████░░░░░░░░░░░░░░░░   37.27 % 
-Markdown                 1 hr 30 mins        ████████░░░░░░░░░░░░░░░░░   32.97 % 
-YAML                     20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
-Bash                     17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
-Python                   14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
+Markdown                 40 mins             ███████████░░░░░░░░░░░░░░   42.91 % 
+TypeScript               18 mins             █████░░░░░░░░░░░░░░░░░░░░   19.34 % 
+Bash                     15 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.99 % 
+Python                   14 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
+YAML                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 35 mins       █████████████████████████   100.00 % 
+VS Code                  1 hr 34 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ft_transcendence         2 hrs 57 mins       ████████████████░░░░░░░░░   64.51 % 
-eigent                   40 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
-test                     24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
-fitbit-fetch-data        17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
-isb                      11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
+eigent                   40 mins             ███████████░░░░░░░░░░░░░░   42.91 % 
+test                     22 mins             ██████░░░░░░░░░░░░░░░░░░░   23.48 % 
+fitbit-fetch-data        17 mins             █████░░░░░░░░░░░░░░░░░░░░   18.89 % 
+isb                      11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
+yestdeqgfhk              2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
 
 💻 Operating System: 
-Linux                    3 hrs 3 mins        █████████████████░░░░░░░░   66.69 % 
-Windows                  1 hr 9 mins         ██████░░░░░░░░░░░░░░░░░░░   25.26 % 
-WSL                      22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
+Windows                  1 hr 9 mins         ██████████████████░░░░░░░   73.66 % 
+WSL                      22 mins             ██████░░░░░░░░░░░░░░░░░░░   23.48 % 
+Linux                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
 ```
 
 **I Mostly Code in C** 
@@ -81,7 +81,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ISB333/ISB333/main/assets/bar_graph.png)
 
 
- Last Updated on 05/03/2026 19:00:23 UTC
+ Last Updated on 06/03/2026 18:49:05 UTC
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=ISB333)
