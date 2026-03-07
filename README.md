@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-83%20hrs%2038%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -42,26 +42,24 @@ Sunday                   81 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Markdown                 40 mins             ███████████░░░░░░░░░░░░░░   42.91 % 
-TypeScript               18 mins             █████░░░░░░░░░░░░░░░░░░░░   19.34 % 
-Bash                     15 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.99 % 
-Python                   14 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
-YAML                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
+Markdown                 52 mins             ████████████████░░░░░░░░░   62.82 % 
+Python                   14 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.63 % 
+Bash                     11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
+YAML                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
+JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
 
 🔥 Editors: 
-VS Code                  1 hr 34 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 23 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-eigent                   40 mins             ███████████░░░░░░░░░░░░░░   42.91 % 
-test                     22 mins             ██████░░░░░░░░░░░░░░░░░░░   23.48 % 
-fitbit-fetch-data        17 mins             █████░░░░░░░░░░░░░░░░░░░░   18.89 % 
-isb                      11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
-yestdeqgfhk              2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
+eigent                   40 mins             ████████████░░░░░░░░░░░░░   48.62 % 
+fitbit-fetch-data        17 mins             █████░░░░░░░░░░░░░░░░░░░░   21.41 % 
+lifeOS                   11 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
+isb                      11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
+Unknown Project          1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
 
 💻 Operating System: 
-Windows                  1 hr 9 mins         ██████████████████░░░░░░░   73.66 % 
-WSL                      22 mins             ██████░░░░░░░░░░░░░░░░░░░   23.48 % 
-Linux                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
+Windows                  1 hr 23 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C** 
@@ -81,7 +79,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ISB333/ISB333/main/assets/bar_graph.png)
 
 
- Last Updated on 06/03/2026 18:49:05 UTC
+ Last Updated on 07/03/2026 18:47:36 UTC
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=ISB333)
