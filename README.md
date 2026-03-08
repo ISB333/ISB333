@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-83%20hrs%2038%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-83%20hrs%2051%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
@@ -42,24 +42,23 @@ Sunday                   81 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Markdown                 52 mins             ████████████████░░░░░░░░░   62.82 % 
-Python                   14 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.63 % 
-Bash                     11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
-YAML                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
-JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
+Python                   14 mins             █████████░░░░░░░░░░░░░░░░   34.32 % 
+Markdown                 11 mins             ███████░░░░░░░░░░░░░░░░░░   27.63 % 
+Bash                     11 mins             ███████░░░░░░░░░░░░░░░░░░   26.15 % 
+YAML                     3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
+JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
 
 🔥 Editors: 
-VS Code                  1 hr 23 mins        █████████████████████████   100.00 % 
+VS Code                  42 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-eigent                   40 mins             ████████████░░░░░░░░░░░░░   48.62 % 
-fitbit-fetch-data        17 mins             █████░░░░░░░░░░░░░░░░░░░░   21.41 % 
-lifeOS                   11 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
-isb                      11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
-Unknown Project          1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
+fitbit-fetch-data        17 mins             ██████████░░░░░░░░░░░░░░░   41.68 % 
+lifeOS                   11 mins             ███████░░░░░░░░░░░░░░░░░░   27.63 % 
+isb                      11 mins             ███████░░░░░░░░░░░░░░░░░░   26.15 % 
+Unknown Project          1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
 
 💻 Operating System: 
-Windows                  1 hr 23 mins        █████████████████████████   100.00 % 
+Windows                  42 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C** 
@@ -79,7 +78,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ISB333/ISB333/main/assets/bar_graph.png)
 
 
- Last Updated on 07/03/2026 18:47:36 UTC
+ Last Updated on 08/03/2026 18:47:42 UTC
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=ISB333)
