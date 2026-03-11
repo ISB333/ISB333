@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-85%20hrs%2012%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-84%20hrs%2012%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
@@ -42,17 +42,17 @@ Sunday                   81 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Markdown                 22 mins             ██████████░░░░░░░░░░░░░░░   39.88 % 
-Bash                     14 mins             ██████░░░░░░░░░░░░░░░░░░░   25.80 % 
-Python                   11 mins             █████░░░░░░░░░░░░░░░░░░░░   19.88 % 
-SQL                      3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.69 % 
-Text                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+JSON                     39 mins             ██████████░░░░░░░░░░░░░░░   41.24 % 
+Markdown                 22 mins             ██████░░░░░░░░░░░░░░░░░░░   23.72 % 
+TOML                     22 mins             ██████░░░░░░░░░░░░░░░░░░░   23.56 % 
+Bash                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
+SQL                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
 
 🔥 Editors: 
-VS Code                  56 mins             █████████████████████████   100.00 % 
+VS Code                  1 hr 34 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  56 mins             █████████████████████████   100.00 % 
+Windows                  1 hr 34 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C** 
@@ -72,7 +72,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ISB333/ISB333/main/assets/bar_graph.png)
 
 
- Last Updated on 10/03/2026 18:49:21 UTC
+ Last Updated on 11/03/2026 18:50:11 UTC
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=ISB333)
