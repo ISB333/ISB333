@@ -42,11 +42,11 @@ Sunday                   81 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-JSON                     37 mins             ███████████░░░░░░░░░░░░░░   45.84 % 
-TOML                     22 mins             ███████░░░░░░░░░░░░░░░░░░   27.56 % 
-Markdown                 10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
-Bash                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
-SQL                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
+JSON                     37 mins             ███████████░░░░░░░░░░░░░░   45.49 % 
+TOML                     22 mins             ███████░░░░░░░░░░░░░░░░░░   27.35 % 
+Markdown                 11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
+Bash                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
+SQL                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
 
 🔥 Editors: 
 VS Code                  1 hr 21 mins        █████████████████████████   100.00 % 
@@ -72,7 +72,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ISB333/ISB333/main/assets/bar_graph.png)
 
 
- Last Updated on 14/03/2026 18:48:07 UTC
+ Last Updated on 15/03/2026 18:48:18 UTC
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=ISB333)
