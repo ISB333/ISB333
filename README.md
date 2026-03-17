@@ -5,34 +5,34 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 209.0 kB Used in GitHub's Storage 
+> 📦 209.3 kB Used in GitHub's Storage 
  > 
-> 🏆 52 Contributions in the Year 2026
+> 🏆 54 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 18 Public Repositories 
+> 📜 19 Public Repositories 
  > 
 > 🔑 12 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                322 commits         ███████████░░░░░░░░░░░░░░   44.85 % 
-🌆 Daytime                373 commits         █████████████░░░░░░░░░░░░   51.95 % 
-🌃 Evening                20 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
+🌞 Morning                322 commits         ███████████░░░░░░░░░░░░░░   44.78 % 
+🌆 Daytime                374 commits         █████████████░░░░░░░░░░░░   52.02 % 
+🌃 Evening                20 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
 🌙 Night                  3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   138 commits         █████░░░░░░░░░░░░░░░░░░░░   19.22 % 
-Tuesday                  103 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
-Wednesday                151 commits         █████░░░░░░░░░░░░░░░░░░░░   21.03 % 
-Thursday                 80 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
-Friday                   88 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
-Saturday                 77 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
-Sunday                   81 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
+Monday                   138 commits         █████░░░░░░░░░░░░░░░░░░░░   19.19 % 
+Tuesday                  104 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
+Wednesday                151 commits         █████░░░░░░░░░░░░░░░░░░░░   21.00 % 
+Thursday                 80 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
+Friday                   88 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
+Saturday                 77 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
+Sunday                   81 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
 ```
 
 
@@ -42,27 +42,28 @@ Sunday                   81 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-JSON                     37 mins             ███████████░░░░░░░░░░░░░░   45.49 % 
-TOML                     22 mins             ███████░░░░░░░░░░░░░░░░░░   27.35 % 
-Markdown                 11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
-Bash                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
-SQL                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
+C                        44 mins             ████████░░░░░░░░░░░░░░░░░   32.76 % 
+JSON                     37 mins             ███████░░░░░░░░░░░░░░░░░░   27.51 % 
+TOML                     22 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.54 % 
+Python                   17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
+SQL                      9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
 
 🔥 Editors: 
-VS Code                  1 hr 21 mins        █████████████████████████   100.00 % 
+VS Code                  2 hrs 15 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 21 mins        █████████████████████████   100.00 % 
+Linux                    1 hr 13 mins        ██████████████░░░░░░░░░░░   54.66 % 
+Windows                  1 hr 1 min          ███████████░░░░░░░░░░░░░░   45.34 % 
 ```
 
 **I Mostly Code in C** 
 
 ```text
-C                        10 repos            ███████████░░░░░░░░░░░░░░   43.48 % 
-Python                   3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
-TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
-Dart                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+C                        10 repos            ██████████░░░░░░░░░░░░░░░   41.67 % 
+Python                   4 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+Dart                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
 ```
 
 
@@ -72,7 +73,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ISB333/ISB333/main/assets/bar_graph.png)
 
 
- Last Updated on 16/03/2026 18:51:08 UTC
+ Last Updated on 17/03/2026 18:51:07 UTC
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=ISB333)
