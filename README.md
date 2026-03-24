@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-100%20hrs%2032%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-101%20hrs%2034%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue?style=flat)
 
@@ -42,18 +42,18 @@ Sunday                   81 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Python                   7 hrs 11 mins       ███████████░░░░░░░░░░░░░░   44.02 % 
-C                        4 hrs 1 min         ██████░░░░░░░░░░░░░░░░░░░   24.65 % 
-Markdown                 3 hrs 55 mins       ██████░░░░░░░░░░░░░░░░░░░   24.02 % 
-Bash                     59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
-SQL                      9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+Python                   6 hrs 58 mins       ███████████░░░░░░░░░░░░░░   45.49 % 
+Markdown                 3 hrs 52 mins       ██████░░░░░░░░░░░░░░░░░░░   25.33 % 
+C                        3 hrs 26 mins       ██████░░░░░░░░░░░░░░░░░░░   22.42 % 
+Bash                     59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
+YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 🔥 Editors: 
-VS Code                  16 hrs 19 mins      █████████████████████████   100.00 % 
+VS Code                  15 hrs 19 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    13 hrs 42 mins      █████████████████████░░░░   84.03 % 
-WSL                      2 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.97 % 
+Linux                    12 hrs 43 mins      █████████████████████░░░░   82.99 % 
+WSL                      2 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
 ```
 
 **I Mostly Code in C** 
@@ -73,7 +73,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ISB333/ISB333/main/assets/bar_graph.png)
 
 
- Last Updated on 23/03/2026 18:50:15 UTC
+ Last Updated on 24/03/2026 18:51:11 UTC
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=ISB333)
