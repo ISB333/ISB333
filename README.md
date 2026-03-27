@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-102%20hrs%2045%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-104%20hrs%2014%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -42,18 +42,17 @@ Sunday                   81 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Python                   6 hrs 11 mins       █████████████░░░░░░░░░░░░   52.70 % 
-Markdown                 3 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   27.79 % 
-C                        1 hr 53 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
-Bash                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
-SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Python                   4 hrs 1 min         ███████████████░░░░░░░░░░   59.27 % 
+C                        1 hr 53 mins        ███████░░░░░░░░░░░░░░░░░░   27.99 % 
+Markdown                 51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
+SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 44 mins      █████████████████████████   100.00 % 
+VS Code                  6 hrs 47 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    11 hrs 35 mins      █████████████████████████   98.78 % 
-WSL                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
+Linux                    6 hrs 47 mins       █████████████████████████   99.99 % 
+WSL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 ```
 
 **I Mostly Code in C** 
@@ -73,7 +72,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ISB333/ISB333/main/assets/bar_graph.png)
 
 
- Last Updated on 26/03/2026 18:51:33 UTC
+ Last Updated on 27/03/2026 18:50:04 UTC
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=ISB333)
