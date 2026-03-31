@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-108%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-108%20hrs%2020%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -42,17 +42,17 @@ Sunday                   81 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Python                   4 hrs 32 mins       █████████████████░░░░░░░░   69.86 % 
-Markdown                 1 hr 3 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.27 % 
-C                        43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
-Bash                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
-CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Python                   5 hrs 3 mins        ██████████████████░░░░░░░   73.06 % 
+Markdown                 1 hr 3 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.28 % 
+C                        33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
+Bash                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
+SQL                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 29 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs 55 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    6 hrs 29 mins       █████████████████████████   99.99 % 
+Linux                    6 hrs 55 mins       █████████████████████████   99.99 % 
 WSL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 ```
 
@@ -73,7 +73,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ISB333/ISB333/main/assets/bar_graph.png)
 
 
- Last Updated on 30/03/2026 18:50:59 UTC
+ Last Updated on 31/03/2026 18:51:29 UTC
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=ISB333)
