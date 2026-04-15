@@ -42,17 +42,18 @@ Sunday                   81 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-TypeScript               38 mins             █████░░░░░░░░░░░░░░░░░░░░   18.88 % 
-Other                    33 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
-CSS                      31 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.34 % 
-YAML                     28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
-Markdown                 27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
+Other                    51 mins             █████░░░░░░░░░░░░░░░░░░░░   21.84 % 
+TypeScript               38 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
+Markdown                 33 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
+YAML                     32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
+CSS                      31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 23 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 53 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    3 hrs 23 mins       █████████████████████████   100.00 % 
+Linux                    3 hrs 32 mins       ███████████████████████░░   91.00 % 
+Windows                  21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
 ```
 
 **I Mostly Code in C** 
@@ -72,7 +73,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ISB333/ISB333/main/assets/bar_graph.png)
 
 
- Last Updated on 14/04/2026 18:51:20 UTC
+ Last Updated on 15/04/2026 18:52:28 UTC
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=ISB333)
