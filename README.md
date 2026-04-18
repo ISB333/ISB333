@@ -1,6 +1,4 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-114%20hrs%2021%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -42,18 +40,18 @@ Sunday                   81 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Other                    6 hrs 47 mins       ████████████████░░░░░░░░░   62.57 % 
-Python                   1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
-TypeScript               43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
-Markdown                 33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
-YAML                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
+Other                    4 hrs 43 mins       ██████████████░░░░░░░░░░░   54.30 % 
+Python                   1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
+TypeScript               43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
+YAML                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
+Markdown                 28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 51 mins      █████████████████████████   100.00 % 
+VS Code                  8 hrs 41 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  6 hrs 17 mins       ██████████████░░░░░░░░░░░   57.91 % 
-Linux                    4 hrs 34 mins       ███████████░░░░░░░░░░░░░░   42.09 % 
+Windows                  4 hrs 29 mins       █████████████░░░░░░░░░░░░   51.66 % 
+Linux                    4 hrs 12 mins       ████████████░░░░░░░░░░░░░   48.34 % 
 ```
 
 **I Mostly Code in C** 
@@ -73,7 +71,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ISB333/ISB333/main/assets/bar_graph.png)
 
 
- Last Updated on 17/04/2026 18:47:22 UTC
+ Last Updated on 18/04/2026 18:46:21 UTC
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=ISB333)
