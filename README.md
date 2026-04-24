@@ -1,38 +1,38 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-128%20hrs%2019%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-130%20hrs%2015%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 209.4 kB Used in GitHub's Storage 
+> 📦 207.7 kB Used in GitHub's Storage 
  > 
 > 🏆 55 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 19 Public Repositories 
+> 📜 3 Public Repositories 
  > 
-> 🔑 11 Private Repositories 
+> 🔑 24 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                322 commits         ███████████░░░░░░░░░░░░░░   44.85 % 
-🌆 Daytime                374 commits         █████████████░░░░░░░░░░░░   52.09 % 
-🌃 Evening                19 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
+🌞 Morning                320 commits         ███████████░░░░░░░░░░░░░░   44.88 % 
+🌆 Daytime                371 commits         █████████████░░░░░░░░░░░░   52.03 % 
+🌃 Evening                19 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
 🌙 Night                  3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   140 commits         █████░░░░░░░░░░░░░░░░░░░░   19.50 % 
-Tuesday                  104 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
-Wednesday                150 commits         █████░░░░░░░░░░░░░░░░░░░░   20.89 % 
-Thursday                 79 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
-Friday                   88 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
-Saturday                 76 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.58 % 
-Sunday                   81 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
+Monday                   139 commits         █████░░░░░░░░░░░░░░░░░░░░   19.50 % 
+Tuesday                  104 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
+Wednesday                147 commits         █████░░░░░░░░░░░░░░░░░░░░   20.62 % 
+Thursday                 78 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
+Friday                   89 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
+Saturday                 76 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
+Sunday                   80 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
 ```
 
 
@@ -42,29 +42,29 @@ Sunday                   81 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Python                   5 hrs 41 mins       █████████████████░░░░░░░░   68.44 % 
-Markdown                 1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
-YAML                     34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
-Bash                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
-JSON                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
+Python                   7 hrs 17 mins       █████████████████░░░░░░░░   69.54 % 
+Markdown                 1 hr 26 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
+YAML                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
+Other                    30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
+JSON                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 47 mins       ███████████████████████░░   93.65 % 
-Unknown Editor           31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
+VS Code                  9 hrs 52 mins       ████████████████████████░   94.04 % 
+Unknown Editor           37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
 
 💻 Operating System: 
-Linux                    7 hrs 21 mins       ██████████████████████░░░   88.43 % 
-Windows                  57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
+Linux                    9 hrs 31 mins       ███████████████████████░░   90.83 % 
+Windows                  57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
 ```
 
 **I Mostly Code in C** 
 
 ```text
-C                        10 repos            ██████████░░░░░░░░░░░░░░░   38.46 % 
-Python                   4 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-TypeScript               3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
-Dart                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+C                        10 repos            ██████████░░░░░░░░░░░░░░░   40.00 % 
+TypeScript               3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
+Python                   3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+Dart                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
 ```
 
 
@@ -74,7 +74,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ISB333/ISB333/main/assets/bar_graph.png)
 
 
- Last Updated on 23/04/2026 18:49:39 UTC
+ Last Updated on 24/04/2026 12:38:25 UTC
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=ISB333)
