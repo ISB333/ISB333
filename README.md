@@ -42,18 +42,18 @@ Sunday                   80 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Python                   11 hrs 14 mins      ███████████████████░░░░░░   77.23 % 
-Markdown                 1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
-Other                    44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
-YAML                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
-Bash                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+Python                   11 hrs 21 mins      ███████████████████░░░░░░   77.91 % 
+Markdown                 57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
+Other                    44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
+YAML                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
+Bash                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 10 mins      █████████████████████░░░░   83.64 % 
-Unknown Editor           2 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.36 % 
+VS Code                  12 hrs 12 mins      █████████████████████░░░░   83.68 % 
+Unknown Editor           2 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.32 % 
 
 💻 Operating System: 
-Linux                    14 hrs 33 mins      █████████████████████████   100.00 % 
+Linux                    14 hrs 35 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C** 
@@ -73,7 +73,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ISB333/ISB333/main/assets/bar_graph.png)
 
 
- Last Updated on 27/04/2026 18:54:52 UTC
+ Last Updated on 28/04/2026 19:02:37 UTC
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=ISB333)
