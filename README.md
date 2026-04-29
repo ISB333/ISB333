@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-138%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-138%20hrs%2059%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-18-blue?style=flat)
 
@@ -11,9 +11,9 @@
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 1 Public Repository 
+> 📜 2 Public Repositories 
  > 
-> 🔑 28 Private Repository 
+> 🔑 27 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -42,18 +42,18 @@ Sunday                   80 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Python                   11 hrs 21 mins      ███████████████████░░░░░░   77.91 % 
-Markdown                 57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
-Other                    44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
-YAML                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
-Bash                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
+Python                   10 hrs 10 mins      ████████████████████░░░░░   81.09 % 
+Markdown                 56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
+Other                    39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
+Bash                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
+JSON                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 12 mins      █████████████████████░░░░   83.68 % 
-Unknown Editor           2 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.32 % 
+VS Code                  10 hrs 41 mins      █████████████████████░░░░   85.21 % 
+Unknown Editor           1 hr 51 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
 
 💻 Operating System: 
-Linux                    14 hrs 35 mins      █████████████████████████   100.00 % 
+Linux                    12 hrs 33 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C** 
@@ -73,7 +73,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ISB333/ISB333/main/assets/bar_graph.png)
 
 
- Last Updated on 28/04/2026 19:02:37 UTC
+ Last Updated on 29/04/2026 18:58:32 UTC
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=ISB333)
