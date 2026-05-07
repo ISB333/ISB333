@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-146%20hrs%2029%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-151%20hrs%201%20min-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-18-blue?style=flat)
 
@@ -42,18 +42,18 @@ Sunday                   80 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Markdown                 2 hrs 42 mins       ███████░░░░░░░░░░░░░░░░░░   27.61 % 
-Python                   2 hrs 33 mins       ███████░░░░░░░░░░░░░░░░░░   26.06 % 
-TypeScript               1 hr 52 mins        █████░░░░░░░░░░░░░░░░░░░░   19.15 % 
-Other                    43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
-CSS                      34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
+Python                   2 hrs 35 mins       ███████░░░░░░░░░░░░░░░░░░   26.14 % 
+Markdown                 2 hrs 29 mins       ██████░░░░░░░░░░░░░░░░░░░   25.03 % 
+TypeScript               1 hr 50 mins        █████░░░░░░░░░░░░░░░░░░░░   18.58 % 
+Other                    54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
+CSS                      34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 36 mins       █████████████████░░░░░░░░   67.53 % 
-Unknown Editor           3 hrs 10 mins       ████████░░░░░░░░░░░░░░░░░   32.47 % 
+VS Code                  7 hrs 12 mins       ██████████████████░░░░░░░   72.52 % 
+Unknown Editor           2 hrs 43 mins       ███████░░░░░░░░░░░░░░░░░░   27.48 % 
 
 💻 Operating System: 
-Linux                    9 hrs 46 mins       █████████████████████████   99.77 % 
+Linux                    9 hrs 55 mins       █████████████████████████   99.77 % 
 Windows                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 ```
 
@@ -74,7 +74,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ISB333/ISB333/main/assets/bar_graph.png)
 
 
- Last Updated on 06/05/2026 19:05:19 UTC
+ Last Updated on 07/05/2026 19:05:51 UTC
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=ISB333)
