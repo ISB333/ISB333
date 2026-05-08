@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-151%20hrs%201%20min-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-152%20hrs%201%20min-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-18-blue?style=flat)
 
@@ -42,19 +42,19 @@ Sunday                   80 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Python                   2 hrs 35 mins       ███████░░░░░░░░░░░░░░░░░░   26.14 % 
-Markdown                 2 hrs 29 mins       ██████░░░░░░░░░░░░░░░░░░░   25.03 % 
-TypeScript               1 hr 50 mins        █████░░░░░░░░░░░░░░░░░░░░   18.58 % 
-Other                    54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
-CSS                      34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
+Python                   2 hrs 32 mins       ███████░░░░░░░░░░░░░░░░░░   26.38 % 
+Markdown                 2 hrs 17 mins       ██████░░░░░░░░░░░░░░░░░░░   23.88 % 
+TypeScript               1 hr 50 mins        █████░░░░░░░░░░░░░░░░░░░░   19.21 % 
+Other                    50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
+CSS                      34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 12 mins       ██████████████████░░░░░░░   72.52 % 
-Unknown Editor           2 hrs 43 mins       ███████░░░░░░░░░░░░░░░░░░   27.48 % 
+VS Code                  6 hrs 57 mins       ██████████████████░░░░░░░   72.34 % 
+Unknown Editor           2 hrs 39 mins       ███████░░░░░░░░░░░░░░░░░░   27.66 % 
 
 💻 Operating System: 
-Linux                    9 hrs 55 mins       █████████████████████████   99.77 % 
-Windows                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+Linux                    9 hrs 35 mins       █████████████████████████   99.76 % 
+Windows                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 ```
 
 **I Mostly Code in C** 
@@ -74,7 +74,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ISB333/ISB333/main/assets/bar_graph.png)
 
 
- Last Updated on 07/05/2026 19:05:51 UTC
+ Last Updated on 08/05/2026 18:55:45 UTC
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=ISB333)
