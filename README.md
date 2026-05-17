@@ -1,6 +1,4 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-152%20hrs%2036%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -42,17 +40,13 @@ Sunday                   80 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Python                   13 mins             ███████████████████░░░░░░   77.36 % 
-Markdown                 2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
-SQL                      1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  14 mins             ██████████████████████░░░   86.24 % 
-Unknown Editor           2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    17 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C** 
@@ -72,7 +66,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ISB333/ISB333/main/assets/bar_graph.png)
 
 
- Last Updated on 16/05/2026 18:47:24 UTC
+ Last Updated on 17/05/2026 18:48:13 UTC
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=ISB333)
