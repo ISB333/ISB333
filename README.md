@@ -1,6 +1,4 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-155%20hrs%203%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -68,7 +66,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ISB333/ISB333/main/assets/bar_graph.png)
 
 
- Last Updated on 21/05/2026 19:11:41 UTC
+ Last Updated on 22/05/2026 19:05:51 UTC
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=ISB333)
